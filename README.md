@@ -1,1 +1,1 @@
-2D game created in gamemaker for my higher games development class
+2D game created in GameMaker with GML for my Higher Games Development Qualification.
